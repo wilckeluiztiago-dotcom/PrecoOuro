@@ -6,7 +6,6 @@
 ## Descrição
 Projeto abrangente de análise do preço do ouro utilizando **equações diferenciais estocásticas (SDEs)** e **análise de séries temporais**, implementado em **C++23** com recursos avançados da linguagem.
 
-O projeto contém aproximadamente **30 módulos** organizados em categorias, cada um com cerca de 200 linhas de código, cobrindo desde estatísticas básicas até modelos sofisticados de volatilidade estocástica.
 
 ## Estrutura do Projeto
 
